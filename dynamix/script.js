@@ -3,6 +3,7 @@
 //IP32 reset program
 
 //input variables 
+console.log("test github")
 const interQuestions = [12, 12, 10, 10, 14, 14, 10, 16, 20, 12];
 const interCheck = [];
 const checkTally = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
